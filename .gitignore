@@ -1,0 +1,18 @@
+# Upstream reference clone (not part of this repo)
+reference/
+
+# Dependencies & builds
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
